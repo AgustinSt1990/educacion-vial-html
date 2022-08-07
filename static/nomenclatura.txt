@@ -1,0 +1,11 @@
+Este documento sirve para vincular el nombre de un archivo con la ubicación dentro del html.
+
+name: elem1-2-3
+
+elem: convención
+1: hace referencia al header
+2: hace referencia al sub-header
+3: hace referencia a la identidad de la imagen dentro del sub-header
+
+
+Si un header es único, es decir, no posee sub-header, se utiliza el valor 0.
